@@ -16,4 +16,4 @@ const CONFIG = {
     messDesc: 'Chiều mai 5h cho anh đón em đưa em đi dạo nha :<',
     btnAccept: 'vângggg <3',
     messLink: 'http://fb.com/congduy.nguyen.9674/
-}
+
