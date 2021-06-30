@@ -5,15 +5,17 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh à :3',
+    title: 'Anh biết anh làm em buồn nhiều lần :<<',
+    desc: 'Nhưng anh sợ mất em, anh nhớ em lắm :(( ',
+    desc: 'Anh vẫn muốn ta có thể cùng nhau đi hết nhưng năm tháng cấp 3 ',
+    desc: 'Thông cảm cho nhau và cùng nhau đi hết quãng đường còn lại nha <3',
+    btnYes: 'Vẫn yêu anh màa <33',
+    btnNo: 'Không, anh à :3',
     question:'Chúng ta có thể bỏ qua tất cả và yêu nhau như ngày đầu được khôngggg :<',
     btnReply: 'Gửi cho anh <3',
     reply: 'dạaaaa yêuu anhhh',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Chiều mai 5h cho anh đón em đưa em đi dạo nha :<',
     btnAccept: 'vângggg <3',
-    messLink: 'http://fb.com' /t/100013944430556
+    messLink: 'http://fb.com/congduy.nguyen.9674/
 }
